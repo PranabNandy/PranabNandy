@@ -1,4 +1,4 @@
-### Hi there, I'm Pranab Nandy 👋
+### Hi there, I'm Pranab Nandy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 
 - 🔭 I'm currently final year of M.Tech in NIT K,Surathkal, looking for fulltime opportunity
@@ -11,12 +11,12 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />][gmail]
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 
 <br />
-
+<br />
 ### Languages and Tools:
 
 
@@ -31,7 +31,7 @@
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
 
 </p>
-
+<br />
  
 
 [website]: https://pranabnandy.github.io
