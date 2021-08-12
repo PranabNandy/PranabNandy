@@ -1,7 +1,7 @@
 ### Hi there, I'm Pranab Nandy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 
-- 🔭 I'm currently final year of M.Tech in NIT K,Surathkal, looking for fulltime opportunity
+- 🔭 I'm currently final year of M.Tech CSE in NIT K,Surathkal, looking for fulltime opportunity
 - 👯 Achieved AIR 560 in Gate CS 2020 conducted by IIT Delhi among 97481 candidates
 - 🌱 I’m currently learning serverless computing
 - 🥅 2021 Goals: Improving my problem solving ability 
