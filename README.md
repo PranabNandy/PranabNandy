@@ -7,6 +7,9 @@
 - 🥅 2021 Goals: Improving my problem solving ability 
 - ⚡ Fun fact: I love to watch motivational videos
 
+![Pranab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranabnandy)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranabnandy&theme=calm)](https://git.io/streak-stats)
 
 ### Connect with me:
 
@@ -14,6 +17,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab2]
 
 <br />
 <br />
@@ -41,3 +45,6 @@
 [gmail]: nandypranab3@gmail.com
 [linkedin]: https://linkedin.com/in/pranab-nandy
 [gitlab]: https://gitlab.com/PranabNandy
+[gitlab2]: https://gitlab.com/PranabNandy2
+
+
