@@ -2,14 +2,15 @@
 
 
 - 🔭 I'm currently final year of M.Tech CSE in NIT K,Surathkal, looking for fulltime opportunity
+
+![Pranab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranabnandy)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranabnandy&theme=calm)](https://git.io/streak-stats)
 - 👯 Achieved AIR 560 in Gate CS 2020 conducted by IIT Delhi among 97481 candidates
 - 🌱 I’m currently learning serverless computing
 - 🥅 2021 Goals: Improving my problem solving ability 
 - ⚡ Fun fact: I love to watch motivational videos
 
-![Pranab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranabnandy)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranabnandy&theme=calm)](https://git.io/streak-stats)
 
 ### Connect with me:
 
