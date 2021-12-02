@@ -1,15 +1,34 @@
-### Hi there, I'm Pranab Nandy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+
+<!-- <img align="center" src="./banner.png"/></a> -->
+
+<h1 align="center"><b>Hi 👋, I'm PRANAB NANDY</b></h1>
+<h3 align="center"><i>(M.Tech CSE in NITK, Surathkal)</i></h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranabnandy&label=visitors%20&color=129e00&style=plastic" alt="pranabnandy" /> </p>
+<img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
 
 
-- 🔭 I'm currently final year of M.Tech CSE in NIT K,Surathkal, looking for fulltime opportunity
+- 👨‍💻 Achieved **AIR 560 in Gate CS 2020** conducted by **IIT Delhi** among 97481 candidates
 
+- 💻 I'm a **3⭐ Rated Coder** at **Codechef**
+
+- 👨‍💻 Currently I'm sharping my skill of **Data Structure and Algorithm** 
+
+- 📫 You can reach out to me via  **nandypranab3@gmail.com**
+
+-  ⚡ Fun fact: I love to watch motivational videos
+
+ <hr>
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranabnandy&theme=calm)](https://git.io/streak-stats)
+ 
+  <hr>
+ 
 ![Pranab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranabnandy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranabnandy&theme=calm)](https://git.io/streak-stats)
-- 👯 Achieved AIR 560 in Gate CS 2020 conducted by IIT Delhi among 97481 candidates
-- 🌱 I’m currently learning serverless computing
-- 🥅 2021 Goals: Improving my problem solving ability 
-- ⚡ Fun fact: I love to watch motivational videos
+
+
+ <hr>
 
 
 ### Connect with me:
@@ -47,5 +66,17 @@
 [linkedin]: https://linkedin.com/in/pranab-nandy
 [gitlab]: https://gitlab.com/PranabNandy
 [gitlab2]: https://gitlab.com/PranabNandy2
+
+
+
+
+
+
+
+
+
+
+
+ <hr>
 
 
