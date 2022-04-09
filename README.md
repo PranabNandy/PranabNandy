@@ -24,7 +24,7 @@
  
   <hr>
  
-![Pranab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranabnandy)
+![Pranab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranabnandy&theme=tokyonight)
 
 
 
