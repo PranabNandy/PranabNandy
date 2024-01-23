@@ -9,11 +9,11 @@
 
 
 
-- 👨‍💻 I have contributed to Open Source Project **NeST**
+- 👨‍💻 I have contributed to _Open Source Networking Project_ **NeST** _(NEtork Stack Tester)_
 
 - 💻 I'm a **3⭐ Rated Coder** at **Codechef**
 
-- 👨‍💻 I have published a Research Paper in the domain of **Cloud Computing**
+- 👨‍💻 I have published a Research Paper at an **International Conference** focused on _Cloud Computing and Data Center_
 
 - 📫 You can reach out to me via  **nandypranab3@gmail.com**
 
