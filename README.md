@@ -82,5 +82,5 @@
 
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=PranabNandy&column=5)](https://github-profile-trophy.vercel.app/?username=PranabNandy&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PranabNandy&column=5&theme=matrix)](https://github-profile-trophy.vercel.app/?username=PranabNandy&column=5)
 
