@@ -1,10 +1,6 @@
 
-<!-- <img align="center" src="./banner.png"/></a> -->
-
-<h1 align="center"><b>Hi 👋, I'm PRANAB NANDY</b></h1>
-<h3 align="center"><i>(Software Engineer @Qualcomm | M.Tech(CSE) @NITK, Surathkal)</i></h3>
-<!-- STATISTICS ABOUT PROFILE -->
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranabnandy&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
 
 
 
@@ -19,8 +15,7 @@
 
 
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranabnandy&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
+
   
  
 ![Pranab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranabnandy&theme=tokyonight)
