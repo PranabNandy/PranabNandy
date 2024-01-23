@@ -8,11 +8,11 @@
 <img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
 
 
-- 👨‍💻 Achieved **AIR 560 in Gate CS 2020** conducted by **IIT Delhi** among 97481 candidates
+- 👨‍💻 I have contributed to Open Source Project **NeST**
 
 - 💻 I'm a **3⭐ Rated Coder** at **Codechef**
 
-- 👨‍💻 Currently I'm sharping my skill of **Data Structure and Algorithm** 
+- 👨‍💻 I have published a Research Paper in the domain of **Cloud Computing**
 
 - 📫 You can reach out to me via  **nandypranab3@gmail.com**
 
