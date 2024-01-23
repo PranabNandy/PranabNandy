@@ -66,19 +66,7 @@
 [linkedin]: https://linkedin.com/in/pranab-nandy
 [gitlab]: https://gitlab.com/PranabNandy
 [gitlab2]: https://gitlab.com/PranabNandy2
-
-
-
-
-
-
-
-
-
-
-
  <hr>
-
 
 
 ## 🏆 GitHub Trophy
