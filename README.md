@@ -2,7 +2,7 @@
 <!-- <img align="center" src="./banner.png"/></a> -->
 
 <h1 align="center"><b>Hi 👋, I'm PRANAB NANDY</b></h1>
-<h3 align="center"><i>(M.Tech CSE in NITK, Surathkal)</i></h3>
+<h3 align="center"><i>(Software Engineer @Qualcomm | M.Tech(CSE) @NITK, Surathkal)</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranabnandy&label=visitors%20&color=129e00&style=plastic" alt="pranabnandy" /> </p>
 <img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
