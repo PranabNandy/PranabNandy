@@ -1,3 +1,4 @@
+<h1 align="center"><b>Hi 👋, I'm PRANAB NANDY</b></h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranabnandy&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
