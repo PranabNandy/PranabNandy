@@ -3,9 +3,10 @@
 
 <h1 align="center"><b>Hi 👋, I'm PRANAB NANDY</b></h1>
 <h3 align="center"><i>(Software Engineer @Qualcomm | M.Tech(CSE) @NITK, Surathkal)</i></h3>
+<!-- STATISTICS ABOUT PROFILE -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranabnandy&label=visitors%20&color=129e00&style=plastic" alt="pranabnandy" /> </p>
-<img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
+
+
 
 
 - 👨‍💻 I have contributed to Open Source Project **NeST**
@@ -16,21 +17,22 @@
 
 - 📫 You can reach out to me via  **nandypranab3@gmail.com**
 
--  ⚡ Fun fact: I love to watch motivational videos
 
- <hr>
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranabnandy&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
-  <hr>
+  
  
 ![Pranab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranabnandy&theme=tokyonight)
 
 
 
- <hr>
 
 
+ 📶 Stats:<br>
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranabnandy&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -39,7 +41,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab2]
 
-<br />
+
 <br />
 
 
@@ -57,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
 
 </p>
-<br />
+
  
 
 [website]: https://pranabnandy.github.io
@@ -66,7 +68,6 @@
 [linkedin]: https://linkedin.com/in/pranab-nandy
 [gitlab]: https://gitlab.com/PranabNandy
 [gitlab2]: https://gitlab.com/PranabNandy2
- <hr>
 
 
 ## 🏆 GitHub Trophy
