@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hi 👋, I'm PRANAB NANDY</b></h1>
 
 
-- 👨‍💻 I have contributed to _Open Source Networking Project_ **NeST** _(NEtork Stack Tester)_
+- 👨‍💻 I have contributed to _Open Source Networking Project_ **NeST** _(NEtork Stack Tester)_  [**[Contribution Link]**](https://gitlab.com/nitk-nest/nest/-/merge_requests/123)
 
 - 💻 I'm a **3⭐ Rated Coder** at **Codechef**
 
-- 👨‍💻 I have published a Research Paper at an **International Conference** focused on _Cloud Computing and Data Center_
+- 👨‍💻 I have published a Research Paper at an **International Conference** focused on _Cloud Computing and Data Center_ [**[Publication Link]**](https://ieeexplore.ieee.org/document/10427039)
 
 - 📫 You can reach out to me via  **nandypranab3@gmail.com**
 
