@@ -2,11 +2,10 @@
 
 
 - 👨‍💻 I have contributed to _Open Source Networking Project_ **NeST** _(NEtork Stack Tester)_  [**[Contribution Link]**](https://gitlab.com/nitk-nest/nest/-/merge_requests/123)
-
+- 💡 I have published a Research Paper at an **International Conference** focused on _Cloud Computing and Data Center_ [**[Publication Link]**](https://ieeexplore.ieee.org/document/10427039)
+- 🔑 Achieved **AIR 560** in GATE CS 2020 conducted by **IIT Delhi** with **99.43 %tile** among 97481 candidates
+- 🛠 Cracked **Central Bank of India** Assistant Manager IT Job [[Roll No - 2110000066 Reg No - 4206119]](https://drive.google.com/file/d/1gjsaMk7i-BF4C7GoqiBPWrzJCoi3rDjv/view?usp=sharing)
 - 💻 I'm a **3⭐ Rated Coder** at **Codechef**
-
-- 👨‍💻 I have published a Research Paper at an **International Conference** focused on _Cloud Computing and Data Center_ [**[Publication Link]**](https://ieeexplore.ieee.org/document/10427039)
-
 - 📫 You can reach out to me via  **nandypranab3@gmail.com**
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranabnandy&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
