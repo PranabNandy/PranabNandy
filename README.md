@@ -5,7 +5,7 @@
 - 💻 I'm a **3⭐ Rated Coder** at **Codechef**
 - 💡 I have published a Research Paper at an **International Conference** focused on _Cloud Computing and Data Center_ [**[Publication Link]**](https://ieeexplore.ieee.org/document/10427039)
 - 🔑 Achieved **AIR 560** in GATE CS 2020 conducted by **IIT Delhi** with **99.43 %tile** among 97481 candidates
-- 🛠 Cracked **Central Bank of India** Assistant Manager IT Job [[Roll No - 2110000066 Reg No - 4206119]](https://drive.google.com/file/d/1gjsaMk7i-BF4C7GoqiBPWrzJCoi3rDjv/view?usp=sharing)
+- 🛠 Cracked **Central Bank of India** Assistant Manager IT Job in 2019 [[Roll No - 2110000066 Reg No - 4206119]](https://centralbankofindia.co.in/sites/default/files/WAITLIST_NOTIFICATION.pdf)
 
 - 📫 You can reach out to me via  **nandypranab3@gmail.com**
 
