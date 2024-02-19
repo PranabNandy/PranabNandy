@@ -7,6 +7,7 @@
 - 💊 Master's Degree (PG) in Computer Science from **NITK, Surathkal** ( `CGPA - 9.1/10` )
 - 🔑 Achieved **All India Rank 560** in GATE CS 2020 conducted by **IIT Delhi** with **99.43 %tile** among 97481 candidates
 - 🛠 Cracked **Central Bank of India** Assistant Manager IT Job in 2020 [[Roll No - 2110000066 Reg No - 4206119]](https://centralbankofindia.co.in/sites/default/files/WAITLIST_NOTIFICATION.pdf)
+- 🔱 Cracked **Indian Space Research Organization** 2020 Written Test ( 594 out of 50K candidates)
 
 - 📫 You can reach out to me via  **nandypranab3@gmail.com**
 
