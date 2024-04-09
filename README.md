@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi 👋, I'm PRANAB NANDY</b></h1>
 
 - 💊 Worked for **Qualcomm Snapdragon** CPU Sub System Software Development Team focusing on Power and Performance. Rich experience in **ARMv8 Arch**, TF-A, Bootloader, **Linux Kernel Internals**,  Trace-32/JTAG, **Linux Device Driver**, Andriod, QNX, Firmware Development. Worked on 1 **Automotive** SoC, 3 **Mobile** SoCs, 1 **XR** SoC
-- 👨‍💻 I have contributed to _Open Source Networking Project_ **NeST** _(NEtork Stack Tester)_  [**[Contribution Link]**](https://gitlab.com/nitk-nest/nest/-/merge_requests/123)
+- 👨‍💻 I have contributed to _Open Source Networking Project_ **NeST** _(NEtwork Stack Tester)_  [**[Contribution Link]**](https://gitlab.com/nitk-nest/nest/-/merge_requests/123)
 - 💻 I'm a **3⭐ Rated Coder** at **Codechef**
 - 💡 I have published a Research Paper at an **International Conference** focused on _Cloud Computing and Data Center_ [**[Publication Link]**](https://ieeexplore.ieee.org/document/10427039)
 -  🎓 Master's Degree (PG) in Computer Science from **NITK, Surathkal** ( **`CGPA - 9.13/10`** )
