@@ -1,10 +1,12 @@
 <h1 align="center"><b>Hi 👋, I'm PRANAB NANDY</b></h1>
 
+-  📶 Working for **Samsung Auto Motive** Division under the `Device Solution Korea` Department. My work focuses on **Platform SW** SoC Development including **HSI driver** development for `PCI` and `UFS` **IP**. Familiarity with industry‐standard tools and frameworks for Linux driver development, including kernel debugging tools, build systems, and version control systems.
+
 - 💊 Worked for **Qualcomm Snapdragon** CPU Sub System Software Development Team focusing on Power and Performance. Rich experience in **ARMv8 Arch**, TF-A, Bootloader, **Linux Kernel Internals**,  Trace-32/JTAG, **Linux Device Driver**, Andriod, QNX, Firmware Development. Worked on 1 **Automotive** SoC, 3 **Mobile** SoCs, 1 **XR** SoC
 - 👨‍💻 I have contributed to _Open Source Networking Project_ **NeST** _(NEtwork Stack Tester)_  [**[Contribution Link]**](https://gitlab.com/nitk-nest/nest/-/merge_requests/123)
 - 💻 I'm a **3⭐ Rated Coder** at **Codechef**
 - 💡 I have published a Research Paper at an **International Conference** focused on _Cloud Computing and Data Center_ [**[Publication Link]**](https://ieeexplore.ieee.org/document/10427039)
--  🎓 Master's Degree (PG) in Computer Science from **NITK, Surathkal** ( **`CGPA - 9.13/10`** )
+-  🎓 Master's Degree (PG) in Computer Science from **NITK, Surathkal** {Top 12 College} ( **`CGPA - 9.13/10`** )
 - 🔑 Achieved **All India Rank 560** in GATE CS 2020 conducted by **IIT Delhi** with **99.43 %tile** among 97481 candidates
 - 🛠 Cracked **Central Bank of India** Assistant Manager IT Job in 2020 [[Roll No - 2110000066 Reg No - 4206119]](https://centralbankofindia.co.in/sites/default/files/WAITLIST_NOTIFICATION.pdf)
 - 🔱 Cracked **Indian Space Research Organization** 2020 Written Test ( 594 out of 50K candidates) [**[Interview Letter]**](https://drive.google.com/file/d/1NPiD4g-x_qgi6Og8iV0ZkUkTiukji1kg/view?usp=sharing)
