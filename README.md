@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi 👋, I'm PRANAB NANDY</b></h1>
 
--  📶 Working for **Samsung Auto Motive** Division under the `Device Solution Korea` Department. My work focuses on **Platform SW** SoC Development including **HSI driver** development for `PCI` and `UFS` **IP**. Familiarity with industry‐standard tools and frameworks for Linux driver development, including kernel debugging tools, build systems, and version control systems.
+-  📶 Working for **Samsung Auto Motive** Division under the `Device Solution Korea` Department. My work focuses on **Platform SW** SoC Development including **HSI driver** development for `UFS` **IP**. Familiarity with industry‐standard tools and frameworks for Linux driver development, including kernel debugging tools, build systems, and version control systems.
 
 - 💊 Worked for **Qualcomm Snapdragon** CPU Sub System Software Development Team focusing on Power and Performance. Rich experience in **ARMv8 Arch**, TF-A, Bootloader, **Linux Kernel Internals**,  Trace-32/JTAG, **Linux Device Driver**, Andriod, QNX, Firmware Development. Worked on 1 **Automotive** SoC, 3 **Mobile** SoCs, 1 **XR** SoC
 - 👨‍💻 I have contributed to _Open Source Networking Project_ **NeST** _(NEtwork Stack Tester)_  [**[Contribution Link]**](https://gitlab.com/nitk-nest/nest/-/merge_requests/123)
